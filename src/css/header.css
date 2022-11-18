@@ -3,8 +3,8 @@
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
-    margin-bottom: 2.5%;
-    margin-left: 2.5%;
+    margin-bottom: 15px;
+    margin-left: 15px;
 
 }
 
@@ -18,33 +18,31 @@
 }
 
 #flex-item2  {
-    text-size-adjust: 50px;
-    font-weight:  1000em;
+    /* text-size-adjust: 50px;
+    font-weight:  1000em; */
     font-size: 1vw;
-    width: 75%;
+    width: 100%;
     margin: 0;
     margin-top: 30px;
-    margin-right: 200px;
-    text-align: right;
+    text-align: center;
 
+}
+
+h1 {
+    width: 100%;
 }
 
 .flex-item3 {
     display: flex;
-    flex-direction: row;
-    position: relative;
     box-align: right;
-    justify-content:space-between;
-    margin: 0;
+    justify-content:space-around;
     list-style-type:none;
-    width: 90%;
     font-size: 1vw;
+    padding: 0;
 
 }
 
 .nav-button {
-    margin-right: 5px;
-    margin-left: 500px;
     font-size:1vw;
 }
 
