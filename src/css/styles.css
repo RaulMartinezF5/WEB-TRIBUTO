@@ -1,0 +1,17 @@
+@import url(footer.css);
+@import url(header.css);
+
+header {
+    width: 100%;
+    left: 0;
+    right:0;
+    position:sticky;
+}
+
+body {
+    background-image: url("https://i.postimg.cc/FR4dmQf6/ankh.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+}
