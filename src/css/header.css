@@ -5,17 +5,15 @@
     width: 100%;
     margin-bottom: 2.5%;
     margin-left: 2.5%;
-
 }
 
-#flex-item1{
+#flex-item1 {
     max-width: 100%;
     height: 100%;
     margin-top: auto;
-    
 }
 
-#flex-item2  {
+#flex-item2 {
     text-size-adjust: 50px;
     font-weight:  1000em;
     font-size: 1vw;
@@ -24,7 +22,6 @@
     margin-top: 30px;
     margin-right: 200px;
     text-align: right;
-
 }
 
 .flex-item3 {
@@ -37,7 +34,6 @@
     list-style-type:none;
     width: 90%;
     font-size: 1vw;
-
 }
 
 .nav-button {
