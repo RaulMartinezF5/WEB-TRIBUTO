@@ -1,0 +1,45 @@
+.choose-saga {
+    display:flex;
+    flex-direction: row;
+    font-size: large;
+}
+.padre-sagas {
+    display: flex;
+    flex-direction: row;
+
+}
+#imagensaga1 {
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+.like-button1 {
+    display: flex;
+}
+
+#imagensaga2 {
+    display: flex;
+    flex-direction: row;
+
+ 
+}
+
+#imagensaga3 {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+#imagensaga4 {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#buttons #like-button:hover{
+    cursor:pointer;
+    transform: scale(1.05);;
+
+}
