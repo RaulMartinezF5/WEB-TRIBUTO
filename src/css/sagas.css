@@ -6,12 +6,14 @@
 .padre-sagas {
     display: flex;
     flex-direction: row;
+    overflow: hidden;
+
 
 }
 #imagensaga1 {
     display: flex;
     flex-direction: row;
-
+    
 }
 
 .like-button1 {
@@ -23,7 +25,6 @@
     display: flex;
     flex-direction: row;
 
- 
 }
 
 #imagensaga3 {
@@ -36,7 +37,7 @@
 #imagensaga4 {
     display: flex;
     flex-direction: row;
-    width:20%;
+
 }
 
 #buttons #like-button:hover{
