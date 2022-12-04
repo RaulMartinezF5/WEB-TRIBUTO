@@ -1,16 +1,17 @@
+/*
 .choose-saga {
     display:flex;
     flex-direction: row;
     font-size: large;
 }
-.padre-sagas {
+*/
+#padre-sagas {
     display: flex;
-    flex-direction: row;
-
+    width: 100%;
 }
-#imagensaga1 {
-    display: flex;
-    flex-direction: row;
+#saga1 {
+    width: 300px;
+    height: 150px;
  
 }
 
@@ -18,24 +19,21 @@
     display: flex;
 }
 
-#imagensaga2 {
-    display: flex;
-    flex-direction: row;
-
+#saga2 {
+    width: 300px;
+    height: 150px;
  
 }
 
-#imagensaga3 {
-    display: flex;
-    flex-direction: row;
-
+#saga3 {
+    width: 300px;
+    height: 150px;
 
 }
 
-#imagensaga4 {
-    display: flex;
-    flex-direction: row;
-
+#saga4 {
+    width: 300px;
+    height: 150px;
 }
 
 #buttons #like-button:hover{
