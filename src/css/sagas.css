@@ -17,6 +17,7 @@
 
 .like-button1 {
     display: flex;
+    border: 5px;
 }
 
 #saga2 {
