@@ -1,12 +1,10 @@
-@import url(footer.css);
 @import url(header.css);
+@import url(sagas.css);
 @import url(raul-recomendados.css);
+@import url(footer.css);
 
 header {
     width: 100%;
-    left: 0;
-    right:0;
-    position:sticky;
 }
 
 body {

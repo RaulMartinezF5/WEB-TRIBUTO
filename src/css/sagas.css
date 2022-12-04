@@ -1,0 +1,52 @@
+/*
+.choose-saga {
+    display:flex;
+    flex-direction: row;
+    font-size: large;
+}
+*/
+#padre-sagas {
+    display: flex;
+    width: 100%;
+}
+
+#padre-sagas div img {
+    width: 100%;
+    object-fit: cover;
+    height: auto;
+}
+
+#saga1 {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+#saga2 {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;   
+}
+
+#saga3 {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;   
+}
+
+#saga4 {
+    width: 300px;
+    height: 150px;
+    object-fit: cover;  
+}
+
+.like-button1 {
+    display: flex;
+    border: 5px; 
+}
+
+#buttons #like-button:hover{
+    cursor:pointer;
+    transform: scale(1.05);;
+}
