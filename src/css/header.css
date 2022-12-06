@@ -1,0 +1,48 @@
+.container-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-left: 15px;
+
+}
+
+#flex-item1 {
+    max-width: 100%;
+    height: auto;
+    margin-top: auto;
+    
+
+
+}
+
+#flex-item2 {
+    /* text-size-adjust: 50px;
+    font-weight:  1000em; */
+    font-size: 1vw;
+    width: 100%;
+    margin: 0;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+h1 {
+    width: 100%;
+}
+
+.flex-item3 {
+    display: flex;
+    box-align: right;
+    justify-content:space-around;
+    list-style-type:none;
+    font-size: 1vw;
+    padding: 0;
+
+}
+
+.nav-button {
+    font-size:1vw;
+}
+

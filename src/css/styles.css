@@ -1,0 +1,18 @@
+@import url(header.css);
+@import url(sagas.css);
+@import url(raul-recomendados.css);
+@import url(footer.css);
+
+header {
+    width: 100%;
+}
+
+body {
+    background-image: url("https://i.postimg.cc/FR4dmQf6/ankh.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.element-banner {
+    width: 100%;
+}
